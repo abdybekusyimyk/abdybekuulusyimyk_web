@@ -38,13 +38,51 @@ class MyHomePage extends StatelessWidget {
               style: TextStyle(fontSize: 24),
             ),
           ),
-          Container(
-            width: 200,
-            height: 100,
-            color: Colors.teal,
-            child: const Center(
-              child: Text('Abdebek uulu Syimyk'),
-            ),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              Container(
+                width: 200,
+                height: 100,
+                color: Colors.teal,
+                child: const Center(
+                  child: Text('Abdebek uulu Syimyk'),
+                ),
+              ),
+              Container(
+                width: 200,
+                height: 100,
+                color: Colors.teal,
+                child: const Center(
+                  child: Text('Abdebek uulu Syimyk'),
+                ),
+              ),
+              Container(
+                width: 200,
+                height: 100,
+                color: Colors.teal,
+                child: const Center(
+                  child: Text('Abdebek uulu Syimyk'),
+                ),
+              ),
+              Container(
+                width: 200,
+                height: 100,
+                color: Colors.teal,
+                child: const Center(
+                  child: Text('Abdebek uulu Syimyk'),
+                ),
+              ),
+              Container(
+                width: 200,
+                height: 100,
+                color: Colors.teal,
+                child: const Center(
+                  child: Text('Abdebek uulu Syimyk'),
+                ),
+              ),
+            ],
           )
         ],
       ),
