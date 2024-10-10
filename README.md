@@ -1,51 +1,50 @@
-# Syimyk Abdybek uulu - Flutter Developer
+# Сыймык Абдыбек уулу - Flutter иштеп чыгуучу
 
-Welcome to my Flutter development portfolio! This repository showcases my skills and projects as a mid-level Flutter developer.
+Менин Flutter иштеп чыгуу портфолиомго кош келиңиздер! Бул репозиторий менин орто деңгээлдеги Flutter иштеп чыгуучу катары көндүмдөрүмдү жана долбоорлорумду көрсөтөт.
 
-## Profile
+## Профиль
 
-![Syimyk Abdybek uulu](assets/images/my_photo.webp)
+![Сыймык Абдыбек уулу](assets/images/my_photo.webp)
 
-**Name:** Syimyk Abdybek uulu  
-**Location:** Osh, Kyrgyzstan  
-**Contact:** +996 (708) 450282  
-**Email:** abdybekuulusyimyk@gmail.com  
+**Аты:** Сыймык Абдыбек уулу  
+**Жашаган жери:** Ош, Кыргызстан  
+**Байланыш:** +996 (708) 450282  
+**Электрондук почта:** abdybekuulusyimyk@gmail.com  
 
-## Professional Summary
+## Кесиптик резюме
 
-I am an experienced Flutter Developer with more than 3 years of hands-on experience in mobile app development. Skilled in transforming concepts into high-quality, functional applications with a strong background in mentoring junior developers. I am currently focused on building scalable, user-centric solutions in dynamic environments.
+Мен мобилдик тиркемелерди иштеп чыгууда 3 жылдан ашуун тажрыйбасы бар тажрыйбалуу Flutter иштеп чыгуучумун. Концепцияларды жогорку сапаттагы, функционалдуу колдонмолорго айландырууда чебермин жана жаш иштеп чыгуучуларга менторлук кылууда күчтүү тажрыйбам бар. Азыркы учурда масштабдуу, колдонуучуга багытталган чечимдерди иштеп чыгууга багытталгам.
 
-## Projects
+## Долбоорлор
 
-### Student
-An educational app designed to support students in Kyrgyzstan.  
+### Студент
+Кыргызстандагы студенттерге колдоо көрсөтүүгө багытталган билим берүүчү тиркеме.  
 [Google Play](https://play.google.com/store/apps/details?id=student.kg)
 
 ### myQuran
-A comprehensive Quran app with features for reading and learning.  
+Окуу жана үйрөнүү функциялары бар толук куран тиркемеси.  
 [Google Play](https://play.google.com/store/apps/details?id=myquran)
 
-### Tilbil
-A language learning app focused on the Kyrgyz language.  
+### Тилбил
+Кыргыз тилине багытталган тил үйрөнүүчү тиркеме.  
 [Google Play](https://play.google.com/store/apps/details?id=tilbil.kg)
 
-## Key Skills
+## Негизги көндүмдөр
 
-- **Dart and Flutter Development**  
-  Proficient in using Flutter CLI, creating responsive and material widgets, and implementing clean architecture principles.
-- **State Management Techniques**  
-  Experienced with Bloc, GetX, and Provider for efficient state management in Flutter apps.
-- **Backend Integration**  
-  Capable of integrating Firebase, using REST APIs, and setting up Web Sockets for real-time applications.
-- **Version Control**  
-  Skilled in Git for version control and familiar with repo hosting services like GitHub.
+- **Dart жана Flutter иштеп чыгуу**  
+  Flutter CLI колдонууда чебер, жоопчул жана материалдык виджеттерди түзүүдө жана таза архитектура принциптерин ишке ашырууда билимдүү.
+- **Мамлекетти башкаруу техникалары**  
+  Flutter тиркемелеринде натыйжалуу мамлекетти башкаруу үчүн Bloc, GetX жана Provider менен тажрыйбалуу.
+- **Артка байланышты интеграциялоо**  
+  Firebase менен интеграциялоо, REST APIлерди колдонуу жана реалдуу убакыт режиминде иштөө үчүн Web Sockets орнотууда жөндөмдүү.
+- **Версияны контролдоо**  
+  Версияны контролдоо үчүн Git менен чебер жана GitHub сыяктуу репозиторий хостинг кызматтары менен тааныш.
 
-## Languages
+## Тилдер
 
-- **Russian:** Upper Intermediate (B2)
-- **English:** Elementary (A2)
+- **Орусча:** Жогорку орто (B2)
+- **Англисче:** Башталгыч (A2)
 
-## About Me
+## Мен жөнүндө
 
-I am a passionate Flutter Developer with a strong foundation in mobile app development and a keen interest in mentoring and teaching. My commitment to creating user-friendly, high-performance applications is matched by my dedication to fostering the next generation of developers. I thrive in dynamic environments and am always eager to take on new challenges and opportunities for growth.
-
+Мен мобилдик тиркемелерди иштеп чыгууда бекем негизи бар жана окутууга жана менторлукка кызыгуулуу күчтүү Flutter иштеп чыгуучумун. Колдонуучулар үчүн ыңгайлуу, жогорку иштөө ылдамдыгындагы колдонмолорду түзүүгө болгон милдеттенмем дагы бир муундун өнүктүрүүчүлөрүн тарбиялоого болгон арналуума дал келет. Мен динамикалык чөйрөлөрдө иштөөнү жактырам жана жаңы сыноолорду жана өсүү мүмкүнчүлүктөрүн кабыл алууга дайым даярмын.
