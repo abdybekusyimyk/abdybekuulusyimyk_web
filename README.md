@@ -21,10 +21,6 @@
 Кыргызстандагы студенттерге колдоо көрсөтүүгө багытталган билим берүүчү тиркеме.  
 [Google Play](https://play.google.com/store/apps/details?id=student.kg)
 
-### myQuran
-Окуу жана үйрөнүү функциялары бар толук куран тиркемеси.  
-[Google Play](https://play.google.com/store/apps/details?id=myquran)
-
 ### Тилбил
 Кыргыз тилине багытталган тил үйрөнүүчү тиркеме.  
 [Google Play](https://play.google.com/store/apps/details?id=tilbil.kg)
